@@ -4,3 +4,4 @@ This is a web API application that is created as an internship project. Project 
 Project is created with microservices architecture and CQRS architecture. 
 Database is created with Code-First approach.
 This API application provides fuel prices and fuel stations locations to frontend.
+yes
